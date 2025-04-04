@@ -210,4 +210,4 @@ For more information, see the Doxygen ducumentation by running [Doxyfile](https:
 
 ---
 
-*Developed for OpenMS as part of Google Summer of Code*
+*Developed for OpenCV as part of Google Summer of Code*
