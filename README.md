@@ -1,6 +1,6 @@
 # OpenCV Tokenizer Integration for LLM Support
 
-<img src="logo" alt="OpenCV Logo" width="100" />
+<img src="logo.png" alt="OpenCV Logo" width="100" />
 
 This project implements a comprehensive tokenizer framework for Large Language Models (LLMs) in OpenCV's DNN module, enabling seamless text processing capabilities for multimodal AI applications.
 
