@@ -202,7 +202,7 @@ This project is licensed under the same terms as OpenCV - Apache 2.0 License.
 - Inspired by implementations in Hugging Face Transformers, TikToken, and SentencePiece
 - Special thanks to the OpenCV community
 
----
+--
 
 For more information, see the Doxygen ducumentation by running [Doxyfile](https://github.com/RiturajSingh2004/opencv-llm-tokenizer/blob/main/docs/Doxyfile)
 
