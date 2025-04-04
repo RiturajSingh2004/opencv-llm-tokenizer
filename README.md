@@ -205,3 +205,7 @@ This project is licensed under the same terms as OpenCV - Apache 2.0 License.
 ---
 
 For more information, see the Doxygen ducumentation by running [Doxyfile](https://github.com/RiturajSingh2004/opencv-llm-tokenizer/blob/main/docs/Doxyfile)
+
+---
+
+*Developed for OpenMS as part of Google Summer of Code*
